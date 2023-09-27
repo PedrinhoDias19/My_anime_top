@@ -16,4 +16,4 @@ Olá, Bem vindo ao meu projeto de um site sobre avaliações de animes!
 
 ### Pedrinho Dias
 
-#Haverão atualizações!
+# Haverão atualizações!
