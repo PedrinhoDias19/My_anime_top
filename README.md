@@ -1,4 +1,4 @@
-# Portfólio 
+# MyAnimeTop
 Olá, Bem vindo ao meu projeto de um site sobre avaliações de animes!
 
 ## Ferramentas utilizadas:
