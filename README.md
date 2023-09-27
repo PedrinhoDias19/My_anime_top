@@ -1,2 +1,19 @@
-# My_anime_top
-Web site prototype for famous animes feedbacks (there will be updates in the future)
+# Portfólio 
+Olá, Bem vindo ao meu projeto de um site sobre avaliações de animes!
+
+## Ferramentas utilizadas:
+
+* HTML
+
+* CSS
+
+* Flex-box
+
+* Animation
+
+
+## Feito por:
+
+### Pedrinho Dias
+
+#Haverão atualizações!
